@@ -1,0 +1,3 @@
+[submodule "git-demo-repo/git-demo-repo/git-sample"]
+	path = git-demo-repo/git-demo-repo/git-sample
+	url = https://github.com/liorImali/git-sample.git
